@@ -285,6 +285,12 @@ export const themes = {
     text_color: "27e8a7",
     bg_color: "242938",
   },
+  blueberry_duo: {
+    title_color: "82aaff",
+    icon_color: "89ddff",
+    text_color: "27e8a7",
+    bg_color: "0d1117",
+  },
   slateorange: {
     title_color: "faa627",
     icon_color: "faa627",
